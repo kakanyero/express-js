@@ -41,3 +41,6 @@ P{
     margin: auto;
     
 }
+.foot .inn{
+    display: inline-block;
+}
