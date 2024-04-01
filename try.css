@@ -36,5 +36,8 @@ P{
     background-color: rgb(140, 79, 84);
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
+    padding: 40px 80px 300px 80px;
+    max-width: 1400px;
+    margin: auto;
     
 }
