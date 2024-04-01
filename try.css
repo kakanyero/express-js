@@ -1,6 +1,7 @@
 .card1 , .card2{
  border-radius: 10px;   
- border: solid 5px;
+ border: solid 2px;
+ max-width: 60%;
  padding: 10px;
  margin: 10px;
  display: inline-block;
@@ -9,4 +10,11 @@
  background-color: blueviolet;
  border-color: black;
  box-shadow: 2px;
+}
+*{
+    box-sizing: border-box;
+}
+.image{
+    width: 100%;
+    max-width: 200px;
 }
