@@ -31,3 +31,10 @@ P{
     flood-color: blueviolet;
     font-style: inherit;
 }
+.footer{
+    color: aliceblue;
+    background-color: rgb(140, 79, 84);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
