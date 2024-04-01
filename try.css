@@ -43,4 +43,11 @@ P{
 }
 .foot .inn{
     display: inline-block;
+    unicode-bidi: isolate;
+}
+.footer .inn .h1{
+    text-align: leftr;
+}
+.footer .inn pre{ 
+    color: black;
 }
